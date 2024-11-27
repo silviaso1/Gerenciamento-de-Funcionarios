@@ -1,0 +1,4 @@
+30226226;Desenvolvedor;Silvia;25000.0
+42626562;Treinador;Bob;8000.0
+5626;Gerente;Ana;9000.0
+26325;GerenteDesenvolvedor;Antonia;20000.0
